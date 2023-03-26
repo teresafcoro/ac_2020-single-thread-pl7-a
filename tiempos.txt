@@ -1,0 +1,13 @@
+Elapsed time	: 6.497057 s.
+Elapsed time	: 6.084999 s.
+Elapsed time	: 6.200696 s.
+Elapsed time	: 6.185552 s.
+Elapsed time	: 6.204259 s.
+Elapsed time	: 6.203025 s.
+Elapsed time	: 6.381512 s.
+Elapsed time	: 6.433590 s.
+Elapsed time	: 6.566542 s.
+Elapsed time	: 6.596798 s.
+Elapsed time	: 6.296360 s.
+Elapsed time	: 6.478689 s.
+
